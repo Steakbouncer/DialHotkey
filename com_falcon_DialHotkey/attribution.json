@@ -1,0 +1,7 @@
+{
+  "name": "Dial Hotkey Plugin",
+  "author": "Steakbouncer",
+  "license": "MIT",
+  "version": "1.0.0",
+  "description": "A plugin that allows hotkeys to be assigned to a dial for clockwise, counterclockwise, and press actions."
+}
